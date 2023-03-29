@@ -1,5 +1,6 @@
 .tab {
   width: 500px;
+  height: auto;
 }
 .tab-nav {
   display: flex;
